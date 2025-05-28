@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm a **Computer Science student at IUC**, I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React** for dynamic frontends, with expertise in **REST APIs**. Explore my repositories to see my projects in action!
+Hello! I'm a **Computer Science student at IUC**, passionate about crafting innovative web and mobile applications. I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React**, **Tailwind CSS**, and **Next.js** for dynamic frontends, with expertise in **REST APIs**. Explore my repositories to see my projects in action!
 
 ---
 

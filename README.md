@@ -39,30 +39,30 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 | Certification | Certificate |
 |---------------|-------------|
 | [**HarvardX CS50x (edX)**](https://courses.edx.org/certificates/618bc6f1b6aa48c39db87451c35a6b29) <br> Completed Introduction to Computer Science | <a href="https://courses.edx.org/certificates/618bc6f1b6aa48c39db87451c35a6b29"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/HarvardX-CS50.png" alt="CS50x Certificate" width="195"/></a> |
-| [**CS50**](https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214) <br> Completed Harvard's CS50 Certificate | <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png" alt="CS50 Certificate" width="195"/></a> |
+| [**CS50**](https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece_IND) <br> Completed Harvard's CS50 Certificate | <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png" alt="CS50 Certificate" width="195"/></a> |
 | [**Python Course from Google (Coursera)**](https://coursera.org/share/415b2b162f7f02f236f22a9e61788186) <br> Earned certification in Python programming | <a href="https://coursera.org/share/415b2b162f7f02f236f22a9e61788186"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Python.png" alt="Python Coursera Certificate" width="195"/></a> |
 | [**Android Development (Udacity)**](https://www.udacity.com/certificate/e/1d0a1fd2-d507-11ef-9db9-c3a26a5e2df3) <br> Completed Android development course | <a href="https://www.udacity.com/certificate/e/1d0a1fd2-d507-11ef-9db9-c3a26a5e2df3"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Android-udacity.png" alt="Android Development Certificate" width="195"/></a> |
 
 ---
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afriwondimu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afriwondimu&layout=compact&theme=radical)
 
 ---
 
 ## 📂 Featured Projects
-- **[Mobile App Name](https://github.com/yourusername/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data. [Add a brief description].
-- **[Web App Name](https://github.com/yourusername/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**. [Add a brief description].
-- **[API Project](https://github.com/yourusername/api-project)**: A **Python** and **Django REST Framework** project delivering secure, scalable APIs. [Add a brief description].
+- **[Mobile App Name](https://github.com/afriwondimu/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data. [Add a brief description].
+- **[Web App Name](https://github.com/afriwondimu/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**. [Add a brief description].
+- **[API Project](https://github.com/afriwondimu/api-project)**: A **Python** and **Django REST Framework** project delivering secure, scalable APIs. [Add a brief description].
 
 ---
 
 ## 📫 Get in Touch
-- 🌐 [Portfolio Website](https://yourportfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- 🐦 [X Profile](https://x.com/yourusername)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/> [Instagram](https://instagram.com/afriwondimu)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu)
+<img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/main/assets/icons/email.svg" alt="Email" width="40" height="40"/> [Email](mailto:afriwondimu@gmail.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/> [X Profile](https://x.com/afriwondimu)
 
 ---
 

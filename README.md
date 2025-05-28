@@ -60,7 +60,7 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 
 ## 📫 Get in Touch
 <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40"/> [Instagram](https://instagram.com/afriwondimu)
-<img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu)
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1730288924~hmac=fc3aead0d2b2b3c3b4e3f4e3f4e3f4e3" alt="Email" width="40" height="40"/> [Email](mailto:afriwondimu@gmail.com)
 <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/> [X Profile](https://x.com/afriwondimu)
 

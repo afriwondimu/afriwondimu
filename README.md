@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm a **Computer Science student at IUC**, passionate about crafting innovative web and mobile applications. I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React** for dynamic frontends, with expertise in **REST APIs**. Explore my repositories to see my projects in action!
+Hello! I'm a **Computer Science student at IUC**, I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React** for dynamic frontends, with expertise in **REST APIs**. Explore my repositories to see my projects in action!
 
 ---
 
@@ -14,7 +14,9 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ### Frameworks & APIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> Django
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> Flutter
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> Next.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40"/> REST API
 
 ### Technologies & Tools
@@ -25,8 +27,8 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ---
 
 ## 🌟 About Me
-- 📱 Crafting cross-platform mobile apps with **Flutter** and **Dart** for seamless user experiences.
 - 💻 Building scalable web applications with **Python**, **Java**, **Django**, and **React**, integrated with **REST APIs**.
+- 📱 Crafting cross-platform mobile apps with **Flutter** and **Dart** for seamless user experiences.
 - 🐳 Deploying projects with **Docker** for portable and efficient workflows.
 - 🚀 Passionate about learning new tools, frameworks, and best practices.
 - 📚 Current **Computer Science student at IUC**, with a strong foundation from **CS50**, **CS50x edX**, **Google's Python Course via Coursera**, and **Android Development on Udacity**.
@@ -52,9 +54,9 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ---
 
 ## 📂 Featured Projects
-- **[Mobile App Name](https://github.com/afriwondimu/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data. [Add a brief description].
-- **[Web App Name](https://github.com/afriwondimu/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**. [Add a brief description].
-- **[API Project](https://github.com/afriwondimu/api-project)**: A **Python** and **Django REST Framework** project delivering secure, scalable APIs. [Add a brief description].
+- **[Web App Name](https://github.com/afriwondimu/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**.
+- **[Mobile App Name](https://github.com/afriwondimu/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data.
+- **[API Project](https://github.com/afriwondimu/api-project)**: A **Python** and **Django REST Framework** project delivering secure, scalable APIs.
 
 ---
 
@@ -66,6 +68,6 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 
 ---
 
-*“Code is my canvas, where logic meets creativity to build impactful solutions.”*
+
 
 Thanks for visiting! Explore my projects and feel free to connect for collaboration or tech discussions! 🚀

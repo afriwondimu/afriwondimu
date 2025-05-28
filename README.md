@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm a **Computer Science student at IUC**, passionate about building innovative web and mobile applications. I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React** for dynamic frontends, with a focus on **REST APIs**. Explore my repositories to see my projects in action!
+Hello! I'm a **Computer Science student at IUC**, passionate about crafting innovative web and mobile applications. I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React** for dynamic frontends, with expertise in **REST APIs**. Explore my repositories to see my projects in action!
 
 ---
 
@@ -29,15 +29,16 @@ Hello! I'm a **Computer Science student at IUC**, passionate about building inno
 - 💻 Building scalable web applications with **Python**, **Java**, **Django**, and **React**, integrated with **REST APIs**.
 - 🐳 Deploying projects with **Docker** for portable and efficient workflows.
 - 🚀 Passionate about learning new tools, frameworks, and best practices.
-- 📚 Current **Computer Science student at IUC**, with a foundation built through **CS50**, **CS50x edX**, **Python Coursera**, and **Android Development on Udacity**.
+- 📚 Current **Computer Science student at IUC**, with a strong foundation from **CS50**, **CS50x edX**, **Google's Python Course via Coursera**, and **Android Development on Udacity**.
 
 ---
 
 ## 🎓 Education & Certifications
 - **Computer Science Student** at **IUC** (Ongoing)
-- <a href="https://cs50.harvard.edu/certificates/your-certificate-id"><img src="https://images.credly.com/images/1e1c5d43-9e0e-4671-bd76-1d2241b54e0e/CS50x.png" alt="CS50x Certificate" width="100"/></a> **CS50x edX** - Completed Harvard's CS50 Introduction to Computer Science.
-- <a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-id"><img src="https://images.credly.com/images/1c2c2f3b-3f7e-4e7a-9c3e-1b7b4e4b5a6a/python_badge.png" alt="Python Coursera Certificate" width="100"/></a> **Python Coursera** - Earned certification in Python programming.
-- <a href="https://www.udacity.com/certificate/your-certificate-id"><img src="https://images.credly.com/images/4e4e4e4e-2f2f-4e4e-8e8e-4e4e4e4e4e4e/android_developer.png" alt="Android Development Certificate" width="100"/></a> **Android Development on Udacity** - Completed Android development course.
+- <a href="https://courses.edx.org/certificates/618bc6f1b6aa48c39db87451c35a6b29"><img src="[your-cs50x-screenshot-url]" alt="CS50x Certificate" width="100"/></a> **HarvardX CS50x (edX)** - Completed Introduction to Computer Science.
+- <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="[your-cs50-screenshot-url]" alt="CS50 Certificate" width="100"/></a> **CS50** - Completed Harvard's CS50 Certificate.
+- <a href="https://coursera.org/share/415b2b162f7f02f236f22a9e61788186"><img src="[your-python-screenshot-url]" alt="Python Coursera Certificate" width="100"/></a> **Python Course from Google (Coursera)** - Earned certification in Python programming.
+- <a href="https://www.udacity.com/certificate/e/1d0a1fd2-d507-11ef-9db9-c3a26a5e2df3"><img src="[your-android-screenshot-url]" alt="Android Development Certificate" width="100"/></a> **Android Development (Udacity)** - Completed Android development course.
 
 ---
 
@@ -64,4 +65,4 @@ Hello! I'm a **Computer Science student at IUC**, passionate about building inno
 
 *“Code is my canvas, where logic meets creativity to build impactful solutions.”*
 
-Thanks for visiting! Check out my projects and feel free to connect for collaboration or tech discussions! 🚀
+Thanks for visiting! Explore my projects and feel free to connect for collaboration or tech discussions! 🚀

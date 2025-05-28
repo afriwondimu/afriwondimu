@@ -39,7 +39,7 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 | Certification | Certificate |
 |---------------|-------------|
 | [**HarvardX CS50x (edX)**](https://courses.edx.org/certificates/618bc6f1b6aa48c39db87451c35a6b29) <br> Completed Introduction to Computer Science | <a href="https://courses.edx.org/certificates/618bc6f1b6aa48c39db87451c35a6b29"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/HarvardX-CS50.png" alt="CS50x Certificate" width="195"/></a> |
-| [**CS50**](https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece_IND) <br> Completed Harvard's CS50 Certificate | <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png" alt="CS50 Certificate" width="195"/></a> |
+| [**CS50**](https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214) <br> Completed Harvard's CS50 Certificate | <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png" alt="CS50 Certificate" width="195"/></a> |
 | [**Python Course from Google (Coursera)**](https://coursera.org/share/415b2b162f7f02f236f22a9e61788186) <br> Earned certification in Python programming | <a href="https://coursera.org/share/415b2b162f7f02f236f22a9e61788186"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Python.png" alt="Python Coursera Certificate" width="195"/></a> |
 | [**Android Development (Udacity)**](https://www.udacity.com/certificate/e/1d0a1fd2-d507-11ef-9db9-c3a26a5e2df3) <br> Completed Android development course | <a href="https://www.udacity.com/certificate/e/1d0a1fd2-d507-11ef-9db9-c3a26a5e2df3"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Android-udacity.png" alt="Android Development Certificate" width="195"/></a> |
 
@@ -59,10 +59,10 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ---
 
 ## 📫 Get in Touch
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/> [Instagram](https://instagram.com/afriwondimu)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu)
-<img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/main/assets/icons/email.svg" alt="Email" width="40" height="40"/> [Email](mailto:afriwondimu@gmail.com)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/> [X Profile](https://x.com/afriwondimu)
+<img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40"/> [Instagram](https://instagram.com/afriwondimu)
+<img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu)
+<img src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1730288924~hmac=fc3aead0d2b2b3c3b4e3f4e3f4e3f4e3" alt="Email" width="40" height="40"/> [Email](mailto:afriwondimu@gmail.com)
+<img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/> [X Profile](https://x.com/afriwondimu)
 
 ---
 

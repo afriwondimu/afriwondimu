@@ -19,6 +19,10 @@ Hello! I'm a **Computer Science student at IUC**, I specialize in **Python**, **
 <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40"/> REST API
 
+### Databases
+<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/> MySQL
+<img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
+
 ### Technologies & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> Docker
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git

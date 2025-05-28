@@ -7,7 +7,7 @@ Hey there! I'm a dedicated developer passionate about crafting robust web and mo
 ## 🛠️ Skills & Technologies
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Frameworks & APIs

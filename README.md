@@ -36,7 +36,7 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ## 🎓 Education & Certifications
 - **Computer Science Student** at **IUC** (Ongoing)
 - <a href="https://courses.edx.org/certificates/618bc6f1b6aa48c39db87451c35a6b29"><img src="[your-cs50x-screenshot-url]" alt="CS50x Certificate" width="100"/></a> **HarvardX CS50x (edX)** - Completed Introduction to Computer Science.
-- <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="[[your-cs50-screenshot-url]](https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png)" alt="CS50 Certificate" width="100"/></a> **CS50** - Completed Harvard's CS50 Certificate.
+- <a href="https://cs50.harvard.edu/certificates/fc1e4df2-cf1e-47e7-869b-0ff4d1ece214"><img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png" alt="CS50 Certificate" width="100"/></a> **CS50** - Completed Harvard's CS50 Certificate.
 - <a href="https://coursera.org/share/415b2b162f7f02f236f22a9e61788186"><img src="[your-python-screenshot-url]" alt="Python Coursera Certificate" width="100"/></a> **Python Course from Google (Coursera)** - Earned certification in Python programming.
 - <a href="https://www.udacity.com/certificate/e/1d0a1fd2-d507-11ef-9db9-c3a26a5e2df3"><img src="[your-android-screenshot-url]" alt="Android Development Certificate" width="100"/></a> **Android Development (Udacity)** - Completed Android development course.
 

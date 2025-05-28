@@ -1,48 +1,48 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hey there! I'm a dedicated developer passionate about crafting robust web and mobile applications. I specialize in building scalable backend systems and dynamic user interfaces, with a focus on **Python**, **Django**, **Flutter**, and **REST APIs**. Explore my repositories to see my work in action!
+Hello! I'm a passionate developer crafting robust web and mobile applications. I specialize in building scalable backends with **Python** and **Django**, and creating seamless cross-platform mobile apps with **Flutter** and **Dart**, integrated with **REST APIs**. Dive into my repositories to explore my work!
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### Languages
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> Dart
 
 ### Frameworks & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0078D4?style=flat-square&logo=rest-api&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> Django
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> Flutter
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40"/> REST API
 
 ### Technologies & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> AWS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> Android Studio
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> VS Code
 
 ---
 
 ## 🌟 About Me
-- 📱 Building cross-platform mobile apps with **Flutter** and **Dart** for seamless user experiences.
-- 💻 Developing robust web applications with **Python**, **Django**, and **REST APIs** for scalable backends.
-- ☁️ Leveraging **Docker** and **AWS** to deploy reliable, cloud-based solutions.
-- 🚀 Always exploring new tools and APIs to enhance my development workflow.
-- 📚 Committed to writing clean, efficient code and staying updated with industry trends.
+- 📱 Building cross-platform mobile apps with **Flutter** and **Dart** for intuitive user experiences.
+- 💻 Developing scalable web applications with **Python**, **Django**, and **REST APIs** for robust backends.
+- ☁️ Deploying reliable solutions using **Docker** and **AWS** for seamless cloud integration.
+- 🚀 Constantly exploring new tools and APIs to enhance my development workflow.
+- 📚 Committed to writing clean, efficient code and staying ahead in tech trends.
 
 ---
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afriwondimu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afriwondimu&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
 ## 📂 Featured Projects
-- **[Mobile App Name](https://github.com/yourusername/mobile-app)**: A cross-platform app built with **Flutter**, integrated with a **REST API** for real-time data. [Add a brief description].
-- **[Web App Name](https://github.com/yourusername/web-app)**: A **Django**-powered web application with a **REST API** backend, deployed on **AWS**. [Add a brief description].
-- **[API Project](https://github.com/yourusername/api-project)**: A **Python** and **Django REST Framework** project providing secure, scalable APIs. [Add a brief description].
+- **[Mobile App Name](https://github.com/yourusername/mobile-app)**: A cross-platform app built with **Flutter**, integrated with a **REST API** for dynamic data. [Add a brief description].
+- **[Web App Name](https://github.com/yourusername/web-app)**: A **Django**-powered web app with a **REST API** backend, deployed on **AWS**. [Add a brief description].
+- **[API Project](https://github.com/yourusername/api-project)**: A **Python** and **Django REST Framework** project delivering secure, scalable APIs. [Add a brief description].
 
 ---
 
@@ -54,6 +54,6 @@ Hey there! I'm a dedicated developer passionate about crafting robust web and mo
 
 ---
 
-*“Code is my craft, blending logic and creativity to build impactful solutions.”*
+*“Code is my craft, weaving logic and creativity into impactful solutions.”*
 
-Thanks for visiting! Check out my projects, and feel free to connect for collaboration or tech discussions! 🚀
+Thanks for stopping by! Explore my projects and reach out for collaboration or tech chats! 🚀

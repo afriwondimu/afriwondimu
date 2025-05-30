@@ -17,6 +17,7 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> Next.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> React
 <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40"/> REST API
 
 ### Databases

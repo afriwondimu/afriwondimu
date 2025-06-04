@@ -48,7 +48,8 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ---
 
 ### 📊 Current Year GitHub Contributions
-![GitHub Contribution Chart](https://raw.githubusercontent.com/afriwondimu/afriwondimu/main/assets/contributions/contribution-2025.png)
+
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=afriwondimu&theme=github-dark)](https://github.com/afriwondimu)
 
 ---
 

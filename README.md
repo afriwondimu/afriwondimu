@@ -47,12 +47,6 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 
 ---
 
-### 📊 Current Year GitHub Contributions
-
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=afriwondimu&theme=github-dark)](https://github.com/afriwondimu)
-
----
-
 ## 📂 Featured Projects
 - **[Web App Name](https://github.com/afriwondimu/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**.
 - **[Mobile App Name](https://github.com/afriwondimu/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data.

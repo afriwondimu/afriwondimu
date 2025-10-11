@@ -21,7 +21,7 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ---
 
 ## 🌟 About Me
-- 💻 Building scalable web applications with **Python**, **Java**, **Django**, and **React**, integrated with **REST APIs**.
+- 💻 Building scalable web applications with **Python**, **Java**, **Django**, and **React**.
 - 📱 Crafting cross-platform mobile apps with **Flutter** and **Dart** for seamless user experiences.
 - 🐳 Deploying projects with **Docker** for portable and efficient workflows.
 - 🚀 Passionate about learning new tools, frameworks, and best practices.
@@ -51,7 +51,6 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ## 📂 Featured Projects
 - **[Web App Name](https://github.com/afriwondimu/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**.
 - **[Mobile App Name](https://github.com/afriwondimu/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data.
-- **[API Project](https://github.com/afriwondimu/api-project)**: A **Python** and **Django REST Framework** project delivering secure, scalable APIs.
 
 ---
 

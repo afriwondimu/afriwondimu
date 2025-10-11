@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm a **Computer Science student at IUC**, passionate about crafting innovative web and mobile applications. I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React**, **Tailwind CSS**, **TypeScript**, and **Next.js** for dynamic frontends, with expertise in **REST APIs**. Explore my repositories to see my projects in action!
+Hello! I'm a **Computer Science student at IUC**, passionate about crafting innovative web and mobile applications. I specialize in **Python**, **Java**, and **Django** for web development, **Flutter** and **Dart** for cross-platform mobile apps, and **React**, **Tailwind CSS**, **TypeScript** for dynamic frontends. Explore my repositories to see my projects in action!
 
 ---
 
@@ -10,7 +10,7 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <span>   </span>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
 
 ### Frameworks & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> <span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> <span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> <span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <span>    </span> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40"/><span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40"/> <span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> <span>    </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> <span>   </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <span>    </span> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40"/><span>   </span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
 ### Databases
 <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/> <span>    </span> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40"/>

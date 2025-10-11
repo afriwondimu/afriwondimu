@@ -46,11 +46,6 @@ Hello! I'm a **Computer Science student at IUC**, passionate about crafting inno
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afriwondimu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afriwondimu&layout=compact&theme=radical)
 
----
-
-## 📂 Featured Projects
-- **[Web App Name](https://github.com/afriwondimu/web-app)**: A **Django** and **React** web app with a **REST API** backend, containerized with **Docker**.
-- **[Mobile App Name](https://github.com/afriwondimu/mobile-app)**: A cross-platform app built with **Flutter** and **Dart**, leveraging **REST APIs** for dynamic data.
 
 ---
 

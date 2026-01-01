@@ -7,22 +7,20 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 ## 🛠️ Skills & Technologies
 
 ### Languages
-<img src="https://cdn.simpleicons.org/python" width="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/go" width="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/dart" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 
 ### Frameworks & APIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> <span> </span>
-
-<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin Framework"/> <span> </span>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/tailwindcss" width="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/typescript" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 
 ### Databases
-<img src="https://cdn.simpleicons.org/postgresql" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 
 ### Tools & DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <span> </span>
@@ -65,10 +63,10 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 ---
 
 ## 📫 Contact
-<img src="https://cdn.simpleicons.org/instagram" width="40"/> [Instagram](https://instagram.com/afriwondimu)  
-<img src="https://cdn.simpleicons.org/linkedin" width="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu-037b73350)  
-<img src="https://cdn.simpleicons.org/gmail" width="40"/> [Email](mailto:afriwondimu@gmail.com)  
-<img src="https://cdn.simpleicons.org/x" width="40"/> [X](https://x.com/afriwondimu)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/> [Instagram](https://instagram.com/afriwondimu)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu-037b73350)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/> [Email](mailto:afriwondimu@gmail.com)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/> [X](https://x.com/afriwondimu)
 
 ---
 

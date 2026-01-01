@@ -8,12 +8,12 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.simpleicons.org/go" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 
 ### Frameworks & APIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="40"/> <span> </span>
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin Framework"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> <span> </span>

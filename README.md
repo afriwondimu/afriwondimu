@@ -8,7 +8,7 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/go" width="40"/> <span> </span>
+<img src="https://cdn.simpleicons.org/go" width="48"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 
 ### Frameworks & APIs
@@ -20,7 +20,8 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 
 ### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.simpleicons.org/redis" width="40"/>
 
 ### Tools & DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <span> </span>

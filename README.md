@@ -7,31 +7,33 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 ## 🛠️ Skills & Technologies
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 
 ### Frameworks & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" alt="Gin" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> <span> </span>
+
+![Gin](https://img.shields.io/badge/Gin-Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.simpleicons.org/tailwindcss" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 
 ### Databases
-<img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/postgresql" width="40"/>
 
 ### Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
 ---
 
 ## 🌟 About Me
 - Backend-focused developer building scalable RESTful APIs  
-- Experience with **Go (Gin)** and **Django** for production systems  
+- Strong experience with **Go (Gin)** and **Django**  
 - Frontend development using **React**, **TypeScript**, and **Tailwind CSS**  
 - Cross-platform mobile apps with **Flutter**
 
@@ -50,17 +52,23 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afriwondimu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afriwondimu&layout=compact&theme=radical)
+## 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=afriwondimu&style=for-the-badge&color=blue)
+
+![GitHub Stats](https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/afriwondimu?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/afriwondimu?style=for-the-badge)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=afriwondimu&theme=radical&border_radius=5)
 
 ---
 
 ## 📫 Contact
-<img src="https://cdn.simpleicons.org/instagram" width="40" height="40"/> [Instagram](https://instagram.com/afriwondimu)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu-037b73350)  
-<img src="https://cdn.simpleicons.org/gmail" width="40" height="40"/> [Email](mailto:afriwondimu@gmail.com)  
-<img src="https://cdn.simpleicons.org/x" width="40" height="40"/> [X](https://x.com/afriwondimu)
+<img src="https://cdn.simpleicons.org/instagram" width="40"/> [Instagram](https://instagram.com/afriwondimu)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> [LinkedIn](https://www.linkedin.com/in/afri-wondimu-037b73350)  
+<img src="https://cdn.simpleicons.org/gmail" width="40"/> [Email](mailto:afriwondimu@gmail.com)  
+<img src="https://cdn.simpleicons.org/x" width="40"/> [X](https://x.com/afriwondimu)
 
 ---
 

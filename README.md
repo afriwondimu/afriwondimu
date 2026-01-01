@@ -51,7 +51,7 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Public GitHub Activity
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afriwondimu&theme=radical)
 

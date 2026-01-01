@@ -66,20 +66,17 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://instagram.com/afriwondimu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="38"/>
+  <a href="https://instagram.com/afriwondimu" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="38" style="vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/afri-wondimu-037b73350">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
+  <a href="https://www.linkedin.com/in/afri-wondimu-037b73350" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="38" style="vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:afriwondimu@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="38"/>
+  <a href="mailto:afriwondimu@gmail.com" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="38" style="vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/afriwondimu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="38"/>
+  <a href="https://x.com/afriwondimu" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="38" style="vertical-align:middle;"/>
   </a>
 </p>
 

@@ -4,7 +4,7 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies I Use
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
@@ -32,7 +32,7 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ## 🌟 About Me
 - Backend-focused developer building scalable RESTful APIs  
-- Strong experience with **Go (Gin)** and **Django**  
+- Experienced with **Django** and **Go (Gin)**  
 - Frontend development using **React**, **TypeScript**, and **Tailwind CSS**  
 - Cross-platform mobile apps with **Flutter**
 
@@ -72,7 +72,7 @@ Computer Science student at **IUC** focused on building scalable **backend syste
   <a href="https://www.linkedin.com/in/afri-wondimu-037b73350" style="margin:0 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="38" style="vertical-align:middle;"/>
   </a>
-  <a href="mailto:afriwondimu@gmail.com" style="margin:0 10px;">
+  <a href="mailto:afriwondimuu@gmail.com" style="margin:0 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="38" style="vertical-align:middle;"/>
   </a>
   <a href="https://x.com/afriwondimu" style="margin:0 10px;">

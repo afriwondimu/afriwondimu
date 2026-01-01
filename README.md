@@ -1,63 +1,88 @@
-<h1 align="center">Hi 👋, I'm Afri Zeleke</h1>
-<h3 align="center">Backend Engineer | Go (Gin) | PostgreSQL | Distributed Systems</h3>
+# Hi, I’m Afri 👋
+
+Computer Science student at **IUC** focused on building scalable **backend systems**, clean **REST APIs**, and modern **web & mobile applications**.
 
 ---
 
-## 👨‍💻 About Me
-I’m a Computer Science student and backend-focused developer with strong problem-solving skills.  
-I specialize in designing scalable REST APIs, clean architectures, and real-world systems using **Go (Gin)** and **PostgreSQL**.
+## 🛠️ Skills & Technologies
 
-I enjoy working on complex backend workflows such as authentication, role-based access control, payments, and system design.
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.simpleicons.org/go" width="48"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+
+### Frameworks & APIs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> <span> </span>
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin Framework"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+
+### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+
+### Tools & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <span> </span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
+- Backend-focused developer building scalable RESTful APIs  
+- Strong experience with **Go (Gin)** and **Django**  
+- Frontend development using **React**, **TypeScript**, and **Tailwind CSS**  
+- Cross-platform mobile apps with **Flutter**
 
-### **Backend**
-<img src="https://cdn.simpleicons.org/go" width="48"/> <span>&nbsp;</span>
-<img src="https://cdn.simpleicons.org/postgresql" width="40"/> <span>&nbsp;</span>
+---
 
-### **Frameworks & APIs**
-<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin Framework"/> <span>&nbsp;</span>
-<img src="https://cdn.simpleicons.org/jwt" width="40"/> <span>&nbsp;</span>
+## 🎓 Education & Certifications
+- **Computer Science Student** — **IUC** (Ongoing)
 
-### **Databases**
-<img src="https://cdn.simpleicons.org/postgresql" width="40"/> <span>&nbsp;</span>
-<img src="https://cdn.simpleicons.org/redis" width="40"/> <span>&nbsp;</span>
-
-### **Tools & Platforms**
-<img src="https://cdn.simpleicons.org/docker" width="40"/> <span>&nbsp;</span>
-<img src="https://cdn.simpleicons.org/git" width="40"/> <span>&nbsp;</span>
-<img src="https://cdn.simpleicons.org/linux" width="40"/> <span>&nbsp;</span>
+| Certification | Certificate |
+|---------------|-------------|
+| **HarvardX CS50x (edX)** | <img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/HarvardX-CS50.png" width="195"/> |
+| **CS50 (Harvard)** | <img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/CS50.png" width="195"/> |
+| **Python – Google (Coursera)** | <img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Python.png" width="195"/> |
+| **Android Development (Udacity)** | <img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Android-udacity.png" width="195"/> |
+| **Responsive Web Design (FreeCodeCamp)** | <img src="https://raw.githubusercontent.com/afriwondimu/afriwondimu/refs/heads/main/assets/certificates/Responsive%20Webdev.png" width="195"/> |
 
 ---
 
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afriwondimu&show_icons=true&theme=default&hide_border=true" />
-</p>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afriwondimu&theme=radical)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afriwondimu&theme=radical)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afriwondimu&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afriwondimu&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afriwondimu&theme=radical&utcOffset=3)
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afriwondimu&hide_border=true" />
+  <a href="https://instagram.com/afriwondimu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/afri-wondimu-037b73350">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:afriwondimu@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/afriwondimu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="38"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Contact Me
-<p align="center">
-  <a href="https://github.com/afriwondimu">
-    <img src="https://cdn.simpleicons.org/github" width="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com">
-    <img src="https://cdn.simpleicons.org/linkedin" width="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com">
-    <img src="https://cdn.simpleicons.org/instagram" width="35"/>
-  </a>
-</p>
-
----
-
-⭐ *Focused on building real-world backend systems with clean architecture and scalability in mind.*
+Open to collaboration on backend systems, APIs, and full-stack projects.

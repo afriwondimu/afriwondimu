@@ -14,10 +14,10 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ### Frameworks & APIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> <span> </span>
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="40"/> <span> </span>
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin Framework"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <span> </span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> <span> </span>
 
 ### Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> <span> </span>
@@ -32,8 +32,8 @@ Computer Science student at **IUC** focused on building scalable **backend syste
 
 ## 🌟 About Me
 - Backend-focused developer building scalable RESTful APIs  
-- Experienced with **Django** and **Go (Gin)**  
-- Frontend development using **React**, **TypeScript**, and **Tailwind CSS**  
+- Experienced with with **Django REST Framework**, **Gin** and **FastAPI**  
+- Frontend development using **React** and **TypeScript**
 - Cross-platform mobile apps with **Flutter**
 
 ---

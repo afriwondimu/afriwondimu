@@ -1,6 +1,6 @@
 # Hi, I’m Afri 👋
 
-Computer Science student at **IUC** focused on building scalable **backend systems**, clean **REST APIs**, and modern **web & mobile applications**.
+I hate **bug** but i love **በግ**
 
 ---
 

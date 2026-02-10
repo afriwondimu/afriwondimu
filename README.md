@@ -1,6 +1,6 @@
 # Hi, I’m Afri 👋
 
-I hate **bug** but i love **በግ**
+I think everybody hate **bug** but i love **በግ**
 
 ---
 

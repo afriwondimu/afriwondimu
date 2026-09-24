@@ -7,14 +7,11 @@ I think everybody hate **bug** but i love **በግ**
 ## 🛠️ Technologies I Use
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.simpleicons.org/go" width="48"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 
 ### Frameworks & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> <span> </span>
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="40"/> <span> </span>
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin Framework"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <span> </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <span> </span>
@@ -32,7 +29,7 @@ I think everybody hate **bug** but i love **በግ**
 
 ## 🌟 About Me
 - Backend-focused developer building scalable RESTful APIs  
-- Experienced with with **Django REST Framework**, **Gin** and **FastAPI**  
+- Experienced with with **Gin** framework  
 - Frontend development using **React** and **TypeScript**
 - Cross-platform mobile apps with **Flutter**
 
